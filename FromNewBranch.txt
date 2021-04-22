@@ -1,1 +1,4 @@
 Commit from New Branch
+
+
+After Resolving merged conflit fouth commit.
